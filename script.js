@@ -17,6 +17,7 @@ tl.from("ul li", {
 
 tl.from("#nav-open i", {
   opacity: 0,
+  duration: 0.35,
 });
 
 tl.pause();
